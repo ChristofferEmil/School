@@ -1,6 +1,6 @@
 # School
 
-Her er mit første Githun-dokument
+Her er mit første Github-dokument
 
 Her er et link:
 
