@@ -9,6 +9,8 @@ Her er et link:
 
 Det er da smart det her!! 
 
+Huhej hvor det går
+
 
 ## Kig på mit portfolio på:
 * [ChristofferEmil](http://Christofferemil.dk)
