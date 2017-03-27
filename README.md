@@ -10,6 +10,6 @@ Her er et link:
 Det er da smart det her!! 
 
 
-## Kig på mit portfilio på:
+## Kig på mit portfolio på:
 * [ChristofferEmil](http://Christofferemil.dk)
 
